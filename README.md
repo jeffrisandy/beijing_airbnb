@@ -26,7 +26,7 @@ For this project, I was interestested in using Beijing AirBnb listing data from 
 
 ## File Descriptions <a name="files"></a>
 
-There  is only 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
+There  is only 1 notebook available here to showcase work related to the above questions including the machine learning model. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 
