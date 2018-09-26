@@ -30,7 +30,7 @@ There  is only 1 notebook available here to showcase work related to the above q
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@jeffrisandy/where-to-stay-in-beijing-airbnb-795bb184acd7).
+The main findings of the code can be found at the post available [here](https://medium.com/@jeffrisandy/where-to-stay-in-beijing-airbnb-795bb184acd7). Github is available at [here](https://github.com/jeffrisandy/beijing_airbnb)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
